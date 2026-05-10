@@ -42,6 +42,5 @@ Microdata
 
 ## Project Structure
 - `notebooks/` — Python notebooks for cleaning and EDA
-- `sql/` — Aggregation queries used before Tableau import
 - `dashboard/` — Link to live Tableau Public dashboard
 - `docs/` — Written findings and storytelling (in progress)
