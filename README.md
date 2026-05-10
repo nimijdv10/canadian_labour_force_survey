@@ -1,4 +1,4 @@
-# 🇨🇦 Canadian Labour Force Analysis (2019–2024)
+# 🇨🇦 Canadian Labour Force Analysis (2020–2025)
 
 ## Project Overview
 An end-to-end data analysis project examining employment trends 
@@ -13,7 +13,7 @@ Dashboard ✅ | Storytelling 🔄
 ## Key Questions Answered
 - Which province has the highest employment rate?
 - How does youth unemployment compare to the national rate?
-- Which industries drove job growth between 2021–2024?
+- Which industries drove job growth between 2020–2025?
 - How does employment vary by gender and age group?
 
 ---
